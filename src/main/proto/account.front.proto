@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package org.csc.account.front.gens;
+
+enum APIModule {
+	API = 0; // 
+};
